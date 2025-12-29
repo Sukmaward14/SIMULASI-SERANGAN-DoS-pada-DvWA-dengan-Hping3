@@ -1,6 +1,5 @@
 # SIMULASI-SERANGAN-DoS-pada-DvWA-dengan-Hping3
 
-# Simulasi Serangan DoS pada DVWA dengan Hping3 dan Slowloris
 
 Repositori ini berisi konfigurasi dan dokumentasi praktikum simulasi serangan DoS pada web aplikasi DVWA yang berjalan di atas web server Apache menggunakan Kali Linux sebagai mesin penyerang.
 
